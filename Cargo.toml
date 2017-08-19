@@ -1,0 +1,6 @@
+[package]
+name = "tcpip6_listener"
+version = "0.1.0"
+authors = ["Innealtoir <innealtoir.codecim@protonmail.com>"]
+
+[dependencies]
